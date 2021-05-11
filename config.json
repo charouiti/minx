@@ -61,8 +61,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "xmrpool.eu:5555",
-            "user": "42FoD8EtKP8fr2pFizngeNF4R123jPpuF9xnbUWfYQVv1CWK4HH3FLmaWuPhmp1QoMZFcu2WhvBxtFCPR57ydy5A7kehCAc",
+            "url": "eth-eu1.nanopool.org:9433",
+            "user": "0x7853E8721062aa96f8574E8ee4f7b325C08d8E2d
+",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
