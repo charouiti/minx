@@ -24,7 +24,7 @@
         "numa": true
     },
     "cpu": {
-        "enabled": true,
+        "enabled": false,
         "huge-pages": true,
         "hw-aes": null,
         "priority": null,
@@ -39,16 +39,16 @@
         "kawpow": false
     },
     "opencl": {
-        "enabled": false,
+        "enabled": true,
         "cache": true,
         "loader": null,
-        "platform": "AMD",
+        "platform": "nvida",
         "adl": true,
         "cn/0": false,
         "cn-lite/0": false
     },
     "cuda": {
-        "enabled": true,
+        "enabled": false,
         "loader": null,
         "nvml": true,
         "cn/0": false,
